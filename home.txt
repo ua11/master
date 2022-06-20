@@ -14,4 +14,5 @@ git checkout name | name - название репозитория |
 и следуем инструкции по загрузке существуещего репозитория
 git remote add origin https://github.com/ua11/master.git
 git branch -M master
-git push -u origin main
+git push -u origin master
+Вот созданый репозиторий https://github.com/ua11/master
