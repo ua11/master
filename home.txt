@@ -1,0 +1,5 @@
+git init
+В файле .gitignore пишем *.sass
+                         /bin
+                         /admin
+                         /config
