@@ -3,3 +3,15 @@ git init
                          /bin
                          /admin
                          /config
+git add . для добавления всех файлов
+git status для проверки есть ли там проигнорированые файлы
+git commit -m 'Changed' для добавления не проигнорированых файлов
+git branch name | name - название репозитория |
+git checkout name | name - название репозитория |
+создаем такую папку как blog и в ней файлы index.js, index.html
+потом выйдем из ветки name
+заходим на github и создаем на нем публичный либо приватный репозиторий
+и следуем инструкции по загрузке существуещего репозитория
+git remote add origin https://github.com/ua11/master.git
+git branch -M master
+git push -u origin main
